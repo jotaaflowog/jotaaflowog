@@ -4,7 +4,7 @@
 <p align="center">Desarrollador Backend Python · Apasionado por FastAPI, CI/CD, SQL y construir soluciones reales</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jotaaflowog/jotaaflowog/main/assets/banner.png" alt="Banner Jorge Butto"/>
+  <img src="https://github.com/jotaaflowog/jotaaflowog/blob/78fb7962f5ff7d66f6accbaefae52dd2b84c2067/%40Jotaaaflowog.png" alt="Banner Jorge Butto"/>
 </p>
 
 ---
