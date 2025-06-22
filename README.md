@@ -25,15 +25,15 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/jotaaflowog/NutriLogic-WebAPI">
-        <img src="https://raw.githubusercontent.com/jotaaflowog/NutriLogic-WebAPI/main/assets/nutrilogic_api_banner.png" alt="NutriLogic Web API"/>
+        <img src="https://github.com/jotaaflowog/jotaaflowog/blob/1b220740dd2e2cb78608951bbc3324bd7ed48d9b/NutrilogicWeb.png" alt="NutriLogic Web API"/>
       </a>
       <br/>
       <strong>NutriLogic Web API</strong><br/>
-      API REST profesional para nutricionistas con JWT, SQL, despliegue en Render y CI/CD
+      API REST profesional para nutricionistas con JWT, SQL, despliegue en Render y CI/CD, la versión WEB de NutriLogic
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/jotaaflowog/NutriLogic-Desktop">
-        <img src="https://raw.githubusercontent.com/jotaaflowog/NutriLogic-Desktop/main/assets/nutrilogic_desktop_banner.png" alt="NutriLogic App Escritorio"/>
+        <img src="https://github.com/jotaaflowog/jotaaflowog/blob/1b220740dd2e2cb78608951bbc3324bd7ed48d9b/NutrilogicApp.png" alt="NutriLogic App Escritorio"/>
       </a>
       <br/>
       <strong>NutriLogic App Escritorio</strong><br/>
